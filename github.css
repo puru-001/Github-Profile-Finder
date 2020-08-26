@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+  }
+ .col-md-3 img {
+   width: 200px;
+   height: 200px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   margin: 10px 0;
+ }
+ .container {
+   margin: 10px auto;
+  
+ }
+
